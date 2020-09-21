@@ -1,0 +1,1 @@
+First, we will use a simple table to represent a customer and their order
